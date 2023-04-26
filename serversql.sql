@@ -1,0 +1,1 @@
+SELECT * FROM tpintegradorfinal3.pronosticos;
